@@ -1,0 +1,20 @@
+
+<resources>
+    <string name="app_name">CS 496 Weather Preferences Location</string>
+    <string name="forecast_for">Forecast for</string>
+    <string name="loading_error_message">Woops.  We couldn\'t cload your forecast.  Check your internet connection and try again.</string>
+    <string name="action_share">Share forecast</string>
+    <string name="action_location">Show forecast location</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_chooser_title">Pick an app to share this forecast</string>
+
+    <string name="pref_unit_key">pref_unit</string>
+    <string name="pref_weather_unit">Choose Weather unit</string>
+
+    <string name="weather_location">Choose Weather location</string>
+    <string name="pref_sort_key">sort</string>
+    <string name="pref_sort_title">Weather Unit by</string>
+    <string name="pref_sort_default">Kelvin</string>
+
+
+</resources>
